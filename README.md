@@ -1,16 +1,9 @@
 # 👋 Hi, I'm Anthony Tran  
 
-🎓 Final-year Computer Science student @ University of Wollongong (Graduating July 2025)  
+🎓 Fresh Grad Computer Science student @ University of Wollongong 
 💻 Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast  
-☁️ AWS Certified Developer – Associate (DVA-C02)  
-
----
-
-## 🚀 About Me  
-- Passionate about **software engineering, cloud computing, and AI/ML**.  
-- Experienced in **full-stack development**: Java, Python, JavaScript, TypeScript.  
-- Skilled in frameworks like **Spring Boot, React, React Native, FastAPI**, and tools such as **Docker, AWS, GitHub Actions, Databricks**.  
-- Strong believer in **collaboration, agile practices, and continuous learning**.  
+☁️ AWS Certified Developer – Associate  
+☁️ AWS Certified Solution Architect – Associate
 
 ---
 
