@@ -16,25 +16,25 @@
 ---
 
 ## 📌 Highlight Projects  
-### 🏠 Home Invease  
+### Home Invease  
 - iOS/Android app with **AI-powered features** for home inventory management.  
 - Secured scholarship & incubation at **UOW iAccelerate** + **$10,000 AWS credits**.  
 - Built with **React Native, Java, Firebase, AWS, OCR & LLM models**.  
 - [🔗 GitHub Repo](https://github.com/khanhsaan)  
 
-### 🎟 EventHub  
+### EventHub  
 - Full-stack event management system.  
 - Built with **Spring Boot, Kafka Streams, JPA, JUnit, React**.  
 - Implemented **event-driven architecture & DDD** with CI/CD pipelines.  
 - [🔗 EventHub-BE](https://github.com/khanhsaan/EventHub-BE)  
 
-### 🤖 AI/ML & Research  
+### AI/ML & Research  
 - Developed computer vision system for **elderly monitoring** using I3D, DeepHAR, Faster R-CNN.  
 - Built **Python FastAPI AI server** with RAG pipeline (ChromaDB + Ollama LLM + TensorFlow).  
 
 ---
 
-## 📊 Most Used Language
+## Most Used Language
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhsaan&layout=compact&theme=tokyonight)
 
 ---
