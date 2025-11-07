@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Highlight Projects  
+## Highlight Projects  
 ### Home Invease  
 - iOS/Android app with **AI-powered features** for home inventory management.  
 - Secured scholarship & incubation at **UOW iAccelerate** + **$10,000 AWS credits**.  
@@ -39,11 +39,11 @@
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 - ✉️ [Email](mailto:anthonykhanhan@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/khanhsaan-anthony-tran/)  
 - 🐙 [GitHub](https://github.com/khanhsaan)  
 
 ---
 
-⭐️ *Always exploring, always building — let’s connect and create something impactful!*  
+*Always exploring, always building — let’s connect and create something impactful!*  
