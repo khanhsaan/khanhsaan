@@ -9,7 +9,7 @@
 
 ## Tech Stack  
 - **Languages:** Java, Python, JavaScript, TypeScript  
-- **Frameworks & Libraries:** Spring Boot, FastAPI, React, React Native, Node.js, Express.js  
+- **Frameworks & Libraries:** Spring Boot, Django, FastAPI, React, React Native, Node.js, Express.js  
 - **Databases:** SQL, PostgreSQL, MongoDB, DynamoDB, Firebase, ObjectBox, ChromaDB  
 - **Cloud & Tools:** AWS, Docker, Git, CI/CD, Bash, Postman, Android Studio, IntelliJ  
 
