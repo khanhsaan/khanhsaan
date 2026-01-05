@@ -34,11 +34,6 @@
 
 ---
 
-## Most Used Language
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhsaan&layout=compact&theme=tokyonight)
-
----
-
 ## Connect with Me  
 - ✉️ [Email](mailto:anthonykhanhan@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/khanhsaan-anthony-tran/)  
