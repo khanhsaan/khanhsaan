@@ -3,7 +3,6 @@
 🎓 Fresh Grad Computer Science student @ University of Wollongong  
 💻 Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast  
 ☁️ AWS Certified Developer – Associate  
-☁️ AWS Certified Solution Architect – Associate
 
 ---
 
